@@ -6,14 +6,10 @@ Book Recommendations
 
 ---
 
-## 算法
+## 推荐书目
 
-## 数据结构
+- [移步](list.md)
 
-## 数学
+## 书评
 
-- 《具体数学》, 有影印版. 最近更新章节可见: (https://www-cs-faculty.stanford.edu/~knuth/gkp.html#errata).
-
-## 计算机系统
-
-- CSAPP: 《深入理解计算机系统》, 有影印版.
+- [《算法》第4版 (Sedgewick, Wayne)](algorithms/algs4.md)
